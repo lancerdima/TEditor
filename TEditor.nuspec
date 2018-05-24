@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>TEditor</id>
-    <version>1.0.3</version>
+    <version>1.0.3.$version$</version>
     <title>TEditor</title>
     <authors>XAM Consulting</authors>
     <owners>XAM Consulting</owners>
